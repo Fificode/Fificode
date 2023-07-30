@@ -1,7 +1,7 @@
-### Hi! Nice to see you 😊👋
+### Hi! Nice to see you 👋
 
 <!--
-**Welcome to my page, I am so happy you are here!
+**Welcome to my page, I am so happy you are here!:)
 I'm Firdaws Lamidi from Lagos, Nigeria.
 - 😄 Pronouns: She/her
 - 😊 I'm a Frontend developer, a Technical writer and also an Open source enthusiast. 
